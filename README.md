@@ -57,6 +57,6 @@ Here are a few projects I've worked on (pin your best repos on your GitHub profi
 
 - 📧 [Email Me](kory.clark0517@gmail.com) 
 - 🌐 [Portfolio Website](https://korynthian-portfolio.vercel.app)
-- 💼 [LinkedIn](linkedin.com/in/kory-clark-1ba2b3193/) *(optional)*
+- 💼 [LinkedIn](linkedin.com/in/kory-clark-1ba2b3193/)
 
 ---
